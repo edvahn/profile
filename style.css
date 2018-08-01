@@ -1,0 +1,57 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #4F5D75;
+  font-weight: 300;
+  line-height: 10px;
+  margin: 30px;
+}
+
+h1 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  color:#7a2828;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color:#fabb2c;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+img {
+  width: 250px;
+  border-radius: 5px;
+}
+
+link {
+  color: #4F5D75;
+}
+
+#profile_pic {
+  width: 250px;
+  border-radius: 50%;
+}
+
+a:hover {
+  color: #BFC0C0;
+}
+
+.card {
+text-align: center;
+max-width: 700px;
+margin: 30px auto;
+background-color: #DAD9EA;
+padding: 10px;
+border-width: 1px;
+box-shadow: 2px 2px 2px 2px;
+}
+
+.card > table {
+  margin: 0 auto;
+}
+
+ul {
+ list-style-type: none;
+}
